@@ -1,0 +1,60 @@
+html{
+	box-sizing: border-box;
+}
+html,body{
+	width:100%;
+	height:100%;
+	margin:0;
+	padding:0;
+}
+body{
+	background:#ffffff url("geometry2.png");
+}
+header{
+	text-align: center;
+	font-size: 30px;
+	/* margin-left: 30%; */
+}
+.deck{
+	background-color: rgb(57, 54, 190);
+	width:400px;
+	height: 400px;
+	margin-left: 35%;
+	margin-top: -1%;
+}
+#but{
+	width:95px;
+	height:95px;
+	display: inline;
+	background: white;
+	margin: 10px;
+	cursor: pointer;
+	border-radius: 15px;
+}
+button{
+	width:75px;
+	height:75px;
+	display: inline;
+	background: black;
+	margin: 10px;
+	cursor: pointer;
+	border-radius: 15px;
+}
+#line{
+	display: flex;
+}
+.score-panel {
+    text-align: left;
+    font-size: large;
+    /*margin-bottom: 10px;*/
+}
+.score-panel1 {
+    text-align: right;
+    font-size: large;
+    margin-top: -5%;
+    /*margin-bottom: 10px;*/
+}
+.changeBackground{
+   background-color: #FF8F00 !important;
+}
+

@@ -1,0 +1,32 @@
+.title{
+	/*background-image: url("maxresdefault.jpg");*/
+	background-color: green;
+	width:1350px;
+	height:590px;
+	margin-bottom: -30%;
+}
+.name{
+	color: black;
+	font-size: 20px;
+	margin-left:30%;
+	margin-right: 30%;
+	text-align: center;
+	background-color: darkred; 
+}
+.but{
+
+	width:180px;
+	padding-top: 13px;
+	text-align: center;
+	height: 40px;
+	color: black;
+	border-radius: 30px;
+	font-size: 20px;
+	background-color:darkred ;
+	margin-left: 70%;
+	margin-top: -10%;
+
+}
+.log{
+	padding-left: 10%;
+}
